@@ -12,7 +12,7 @@ Supported scales:
 
 | Scale | Typical use |
 |-------|-------------|
-| 4.0   | US colleges, KFUPM, KAUST |
+| 4.0   | US colleges |
 | 4.33  | Schools that count A+ as 4.33 |
 | 5.0   | Public universities, some weighted school GPAs |
 | 7.0   | Universities with a 7-point system |
